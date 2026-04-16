@@ -1,0 +1,5 @@
+Python Libraries Required:
+OpenCV
+Numpy
+Ultralytics
+Torch
